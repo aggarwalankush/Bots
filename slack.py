@@ -2,9 +2,9 @@ import time
 
 from slackclient import SlackClient
 
-slack_client = SlackClient("xoxb-156970079207-WFjF5sZtqGD876zGzQi1TeGu")
-BOT_NAME = "athena"
-BOT_ID = ""
+slack_client = SlackClient("your_slack_token")
+BOT_NAME = "your_bot_name"
+BOT_ID = ""  # it will be auto generated
 
 
 def get_bot_id():
