@@ -8,4 +8,5 @@ Bots Demo
 
 ## Messenger
 - https://developers.facebook.com/docs/messenger-platform/guides/quick-start
+- https://developers.facebook.com/apps
 - Use `ngrok` to expose localhost to internet
