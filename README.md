@@ -1,10 +1,11 @@
-Slack
-- pip install slackclient #official slack client
+Bots Demo
+=================
 
-https://api.slack.com/bot-users
-Create new bot user
+## Slack
+- `pip install slackclient`
+- Create a new bot user from https://api.slack.com/bot-users
+- add bot to your channel `/invite bot_name`
 
-https://api.slack.com/methods
-
-as_user=False #you can send to any slack channel
-as_user=True #you can only send to channel you added
+## Messenger
+- https://developers.facebook.com/docs/messenger-platform/guides/quick-start
+- Use `ngrok` to expose localhost to internet
